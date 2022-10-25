@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="908a95ec-2d85-41f1-9c8b-c6355c432e40" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Animal.java" afterDir="false" />
     </list>
+    <list id="729af43a-7dfb-4a3d-8238-39b9d309cca8" name="Changes by Admin" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +34,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
     "last_opened_file_path": "C:/Users/Admin/Documents/LBG_Practices/git/qa_poly/Animal"
   }
 }]]></component>
