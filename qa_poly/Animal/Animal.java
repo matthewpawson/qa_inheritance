@@ -11,6 +11,9 @@ public class Animal {
     public void flee(){
         System.out.println("Animal fled.");
     }
+    public void breed(){
+        System.out.println("Animal mated.");
+    }
     @Override
     public String toString() {
         return "This is an animal.";
