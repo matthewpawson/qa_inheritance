@@ -7,7 +7,17 @@ public class Main {
         Penguin penguin = new Penguin("penguin");
         Animal[] animalArray = {penguin, collard, spoonbill, new Fish("fish")};
 
-        for (Animal animal : animalArray)
-            System.out.println(animal.toString());
+        for (Animal animal : animalArray) {
+            engageInCombat(animal);
+        }
+
+        System.out.println();
+        engageInCombat(penguin);
+    }
+
+    public static void engageInCombat(Animal animal){
+        System.out.println(animal.toString());
+        animal.hunt();
+        animal.flee();
     }
 }

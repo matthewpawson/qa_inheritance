@@ -2,12 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="908a95ec-2d85-41f1-9c8b-c6355c432e40" name="Changes" comment="Added Main class">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Animal/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Animal/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Animal/Bird.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Animal/Bird.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Animal/Fish.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Animal/Fish.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Animal/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Animal/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Animal/Owl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Animal/Owl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Animal/Penguin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Animal/Penguin.class" afterDir="false" />
     </list>
-    <list id="729af43a-7dfb-4a3d-8238-39b9d309cca8" name="Changes by Admin" comment="">
-      <change beforePath="$PROJECT_DIR$/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Animal.java" afterDir="false" />
+    <list id="ecdb0460-d6ea-48d0-96fa-b5920cdd0e9b" name="Changes by Admin" comment="">
       <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,18 +31,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/Animal.java">
+    <file path="$PROJECT_DIR$/Main.java">
       <ranges>
-        <range start1="1" end1="1" start2="1" end2="10" changelist="729af43a-7dfb-4a3d-8238-39b9d309cca8" />
-        <range start1="18" end1="19" start2="27" end2="28" changelist="908a95ec-2d85-41f1-9c8b-c6355c432e40" />
-        <range start1="23" end1="23" start2="32" end2="35" changelist="729af43a-7dfb-4a3d-8238-39b9d309cca8" />
-        <range start1="28" end1="29" start2="40" end2="41" changelist="908a95ec-2d85-41f1-9c8b-c6355c432e40" />
-        <range start1="33" end1="33" start2="45" end2="48" changelist="908a95ec-2d85-41f1-9c8b-c6355c432e40" />
-        <range start1="44" end1="45" start2="59" end2="60" changelist="908a95ec-2d85-41f1-9c8b-c6355c432e40" />
-        <range start1="49" end1="49" start2="64" end2="67" changelist="908a95ec-2d85-41f1-9c8b-c6355c432e40" />
-        <range start1="55" end1="56" start2="73" end2="74" changelist="908a95ec-2d85-41f1-9c8b-c6355c432e40" />
-        <range start1="60" end1="60" start2="78" end2="81" changelist="729af43a-7dfb-4a3d-8238-39b9d309cca8" />
-        <range start1="66" end1="67" start2="87" end2="88" changelist="908a95ec-2d85-41f1-9c8b-c6355c432e40" />
+        <range start1="9" end1="11" start2="9" end2="14" changelist="908a95ec-2d85-41f1-9c8b-c6355c432e40" />
+        <range start1="12" end1="12" start2="15" end2="21" changelist="ecdb0460-d6ea-48d0-96fa-b5920cdd0e9b" />
       </ranges>
     </file>
   </component>
@@ -54,12 +51,13 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TODO_SCOPE": "All Places",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "last_opened_file_path": "C:/Users/Admin/Documents/LBG_Practices/git/qa_poly/Animal",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "configurable.group.build"
+    "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
   <component name="RunManager">
