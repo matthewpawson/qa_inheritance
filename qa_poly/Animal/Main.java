@@ -19,5 +19,6 @@ public class Main {
         System.out.println(animal.toString());
         animal.hunt();
         animal.flee();
+
     }
 }
